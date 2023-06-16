@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mount_Fuji_from_Mount_Aino.jpg/640px-Mount_Fuji_from_Mount_Aino.'
+img_url = 'https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BCFC#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Stamford_Bridge_Clear_Skies.JPG'
 
 im = imread(img_url)
 
